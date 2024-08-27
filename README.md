@@ -30,5 +30,9 @@ I'll go over the complete process of handling the Titanic dataset using Python, 
 7.Predict and Submit Results
 
 
+titanic_dataset_prediction!
+
+In this project we use sklearn library to predict a titanic survival prediction, in the project  use RandomForestClassifier Model to predict whether a passenger survived or not based on various features such as age, gender, class, and more. 
+
 ![image](https://github.com/user-attachments/assets/302867ce-6924-4c96-bb21-508094a92589)
 
