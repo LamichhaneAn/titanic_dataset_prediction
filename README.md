@@ -16,9 +16,15 @@ Parch: Number of parents/children abroad the Titanic. Ticket: Ticket number.
 I'll go over the complete process of handling the Titanic dataset using Python, including the following:
 
 1.Load the Data
+
 2.Explore the Data
+
 3.Clean the Data
+
 4.Feature Engineering
-Select and Train a Model
-5.Evaluate the Model
-6.Predict and Submit Results
+
+5.Select and Train a Model
+
+6.Evaluate the Model
+
+7.Predict and Submit Results
