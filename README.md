@@ -28,3 +28,7 @@ I'll go over the complete process of handling the Titanic dataset using Python, 
 6.Evaluate the Model
 
 7.Predict and Submit Results
+
+
+![image](https://github.com/user-attachments/assets/302867ce-6924-4c96-bb21-508094a92589)
+
